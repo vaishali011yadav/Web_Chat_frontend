@@ -1,6 +1,6 @@
  # Socket.IO
  ## Socket.IO is a JavaScript library that enables real-time, bidirectional and event-based communication between the browser/client and the server.
-
+ link to the App: https://web-chat-frontend-1gpz.vercel.app/
     ● Real-time: Real-time communication refers to the ability to transmit and receive information with very little latency. This means that changes or actions performed in one place are seen almost instantly in another place, regardless of where the two locations are.
 
     ● Bidirectional: Bidirectional communication means that data can be sent and received in both directions between clients and servers. This differs from traditional HTTP requests where communication is initiated by the client and the server responds. In a bidirectional system like Socket.IO, both the client and the server can initiate communication, allowing them to send and receive data at will.
